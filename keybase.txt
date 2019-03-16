@@ -4,6 +4,96 @@ https://keybase.io/wolfe
 
 I hereby claim:
 
+  * I am an admin of https://kaw.io
+  * I am wolfe (https://keybase.io/wolfe) on keybase.
+  * I have a public key with fingerprint 550F D350 282B 7C3B 03BF  A0F8 1AB3 9DDB 87CC 0548
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120264f56d5e2f2a1755927b8d88f619373439c47cd413fa6a122e067661bb11e650a",
+      "fingerprint": "550fd350282b7c3b03bfa0f81ab39ddb87cc0548",
+      "host": "keybase.io",
+      "key_id": "1ab39ddb87cc0548",
+      "kid": "0101e52b367c1b543e0704c5af9b32a65338914ddce3eea0ecb642c19ed351353c390a",
+      "uid": "2619d87228f30e3cdcd0645566b4ea19",
+      "username": "wolfe"
+    },
+    "merkle_root": {
+      "ctime": 1552754112,
+      "hash_meta": "03598c28812b0c4bbb245fdb9653129fa80ed66c4967b24b465b491f83fdb56f",
+      "seqno": 4962943
+    },
+    "revoke": {
+      "sig_ids": [
+        "02ed7e82449065a706fa1cd6225dbce6a6137f9bc4cb4a1567f0f53e1aa0aefd0f"
+      ]
+    },
+    "service": {
+      "hostname": "kaw.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1552754159,
+  "expire_in": 157680000,
+  "prev": "af716698fb49c28387e960e5692ad13963685b2cd5ba55170ab2a9b8da9ae790",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMP+AnicbZN7bBRFHMf7pl7Co2rkIUFcitBA6czszuzuSRTaQJuSWA6I4XFwzOzO
+tsc99rg7ri0vSzQaQJRrbK9BSxUE5VHEUgsSI1KJQEvlodYHVR5/EKHlodjEIATn
+KsTEuP9Mdub7+/2+v89v5tjg9BRH6qgDjedfO5VZktrZHliR4t40/uYqidlmteRc
+Jfn4wML9Jo9EPT6vKTklABFARLEwMTFHFqJQxVhHKtNMTbMI1GVVVmTdUFTDVKBs
+UUIhQhwQlRDIGIScYEClyZLlDZbzcCjsDUZFWoyBZcoYIA0x1ZAZkJlFgaVBymTd
+NJmmGgbAiiYCK+xIMkKYYzTCp3htsSd+PAP2/kf/0DeAHCMmE9WADCsyBypQDEwt
+ncmIEizLmg4V0zS4zDkF3GBEQQbUubAFZSwbsj7ge8VAOiQ6NTUVIc2SAZcN0zAB
+UTAmhCmcQj0pjPBwkAa4UFfafotLayZLAR72+bknbNvRJFkj6k2eQ4yRihUIkeiO
+Rio8AR6lSc8y1jUDaRpEDBgKYwwp2DKZLtxCpFtUA9wkxFB0ooojphDMFB1amixE
+mFjCRIQvD9qSUyiQrsjCQZjHbB9PFo94ywWziORcJAHETZVrSFF0QDBVAbEoNEyC
+EDaZwQklUFYFKEMxmEIhJqoFLCxzSCmg3DKBJS1ekywWjnmNgeTJIT1o3kcr/xlS
+KGxHbcP2i72KaDQUcSaJRKtDA4Q48zwI9zBv0BSXQ0TEeDjitYOCkFD+BxbWJ0u8
+KuQNc483qcAq0YD4knV4TKSklgoJ0TVLMBEQZU3lOgEcEx1RE8o6kYmGGTJMzCjG
+UAWUIaqLe0x1ylUd/EsPEeGTloucglmQRleExTDbj7ozUlIdKVmZaclXk+J4ZNjD
+t7QeDL2/uvjcBkdex/mJS0tnua/sf8ae9P2NvtSfzs4sbOg6a/WuTKPOJZf3xZ0n
+0h9zNXlO/NnQsmBMdHjztpE37x7O+Stw0hGf0/HB1AUVM2OT3HtcXxxKyxnXFI/3
+bkl0952uqjhcU7Ol7fRt/MTZ4umjPp2ilxW+cvVq6ehdrmVkxvR9S+Zenr61d8Jw
+X8eB3Oeezd2ztHTrBdcfYM5TjSXrR50bUtCkHq10HOwf8nQiu/fnsrqu1XdvJJrH
+XInW+o2CoujHtx615LR3092l1+fGXfcPVg7ue8H5SfmZndXvrH6vvi7S1fbN3esN
+86p3tr957F5PceIr2rOoq0St+3CTcjyUftznctfPm/p1ffeESFFf9suNNz9i9toe
+HKo6tnc2V6furvGNv3Anv6BgQlnLOriz2Wpty+mE7GLL20WtexeXvP5S2eiiLeW3
+5q8hw+6t6/Qnhp4p2rbsUPOgHZubsjrnfudQN9UFun9ZNGJ+VdaP1Z05GUd271p5
+aUjD4hsdG+dl73A1LL02zV9f9eWttFY8/z5o7u+dWNEfl8zjNUWn8qLd00ZOWbAx
+7t5++9d8rSyR7vstP9Yza07f7M8bU0Zn71+bltid2ZaxIz/z4ubcHwpbl/ev2/Di
+iOsbfq8dO7Z2YUbukbekQasGtVQWzhiXFWtvvtP4WccbT+a1fxuA/ufzrr36/uMn
+F66fPcl/aev22pF/A/wh9sk=
+=/PhG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wolfe
+
+==================================================================
+
+
+==================================================================
+https://keybase.io/wolfe
+--------------------------------------------------------------------
+
+I hereby claim:
+
   * I am an admin of http://kaw.io
   * I am wolfe (https://keybase.io/wolfe) on keybase.
   * I have a public key with fingerprint 550F D350 282B 7C3B 03BF  A0F8 1AB3 9DDB 87CC 0548
