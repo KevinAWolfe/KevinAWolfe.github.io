@@ -13,6 +13,16 @@ Author: themehippo.com
 # Theme Color (link color) #82b541
 # Mid grey (sub header) #f4f4f4
 # -------------------------------------------------------------------*/
+.microblog_post {
+    margin:1em 0;
+}
+.microblog_text p{
+    margin:0;
+}
+.microblog_time {
+    font-size:0.8em;
+    color:gray;
+}
 
 body {
     font-family : 'Hind', sans-serif;
